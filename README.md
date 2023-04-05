@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecosta290&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-  - 🌱 Conhecimentos em: 
+  -  Conhecimentos em: 
  
 <a href="https://git-scm.com"><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://github.com"><img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
