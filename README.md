@@ -1,3 +1,5 @@
+<img height="180em" src="mylogo2.png"/>
+
 ### Eai, tranquilo...Eu sou o André 😉
 
 - 💻 Hoje trabalho com Beck-end
